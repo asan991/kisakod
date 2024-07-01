@@ -127,3 +127,4 @@ Researchers are unsure exactly how a cat purrs. Most veterinarians believe that 
 The normal body temperature of a cat is between 100.5 ° and 102.5 °F. A cat is sick if its temperature goes below 100 ° or above 103 °F.
 A cat's appetite is the barometer of its health. Any cat that does not eat or drink for more than two days should be taken to a vet.
 Cats have 32 muscles that control the outer ear (humans have only 6). A cat can independently rotate its ears 180 degrees.
+A healthy cat has a temperature between 38 and 39 degrees Celcius.
